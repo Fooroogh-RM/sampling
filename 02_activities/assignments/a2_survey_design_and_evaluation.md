@@ -40,26 +40,105 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: #3
 
 Describe the purpose of your survey:
-```
-write your answer here...
-```
+To determine if there is a relationship/pattern in musical taste and age. Specifically, looking to see how older population percieves contemporary (pop) music across different musical eras. The survey is cross-sectional with emphasis on current music charts, and within age-group changes of each participant, to see if each person musical taste changes in a meaningful pattern (retrospective).
 
-Describe your target population, sampling frame, sampling units, and observational units:
-```
-write your answer here...
-```
+
+---
+
+Describe your 
+
+- target population:Adults +18 recruited in GTA area
+- sampling frame:participants will be recruited from the community via posting ads in libraries, unversities, elderly care centres. Participants are compensated via a $5 gift card of their choice from a variety of retailers. 
+- sampling units: a set number of participant (e.g. 100) per age groups defined by decade with the exception of 18-30 (12 years) and 70+.within each decade group researchers must ensure that the volume of female and male participants are similar with ± 15% difference. 
+
+- observational units:
+Those who complete the survey. If funding and time to complete the study is sufficient this would be 500-600 participants. 
+---
 
 Your 5-10 question survey:
 ```
 1. write your question here...
+How often do you listen to music?
+
+Over an hour per day
+less than an hour daily
+Several times per week
+a few times weekly
+Several times per month
+Infrequently (less than monthly)
+Rarely or never
 2. write your question here...
+Which musical genres do you currently listen to most regularly? (Select all that applies)
+
+Pop/Top 100
+Rock/Alternative Rock
+Hip-Hop/Rap
+R&B/Soul
+Country
+Electronic/Dance
+Jazz
+Classical
+Folk/Indie
+Metal/Heavy Metal
+Blues
+punk
+World/International (please specify which country)
+not-listed here (please specify)
+
 3. write your question here...
+
+Please indicate your level of agreement with the following statements about contemporary popular music:
+Scale: Strongly agree (5) / Agree (4) / Neither agree nor disagree (3) / Disagree (2) / Strongly disagree (1)
+a) I generally enjoy popular music currently receiving significant airplay/streaming attention
+b) Popular music today lacks the quality of music from earlier periods
+c) I actively seek out information about emerging artists and new releases
+d) Much of today's popular music sounds homogeneous
+e) Contemporary popular music appears targeted toward younger demographic groups
+f) Today's popular music demonstrates greater diversity than previous eras
+
 4. write your question here...
+
+Reflecting on the period when you were approximately 18-30 years old, which musical genres did you listen to most frequently during that time? (Select all that applies)
+
+Pop/Top 100
+Rock/Alternative Rock
+Hip-Hop/Rap
+R&B/Soul
+Country
+Electronic/Dance
+Jazz
+Classical
+Folk/Indie
+Metal/Heavy Metal
+Blues
+punk
+World/International (please specify which country)
+not-listed here (please specify)
+
 5. write your question here...
+
+Comparing your current musical preferences to those during ages 18-30, how would you characterize the degree of change in your taste?
+
+a) Minimal change; preferences remain largely consistent
+b) Modest evolution; core preferences persist with some variation
+c) Moderate change; noticeable shifts in genre preferences
+d) Substantial change; markedly different musical tastes
+e) Not applicable (currently within this age range)
+
 6. write your question here... (optional)
+
+Current age: _____ years
+Gender identity:
+Man
+Woman
+Non-binary
+Prefer to self-describe: ___________
+Prefer not to answer
+
+
 7. write your question here... (optional)
 8. write your question here... (optional)
 9. write your question here... (optional)
@@ -69,10 +148,53 @@ Your 5-10 question survey:
 ## Part B - Survey Evaluation:
 
 Identify and describe survey features:
+1. Sample Type:
+Stratified probability sampling with dual-frame approach. Every unit had a known, non-zero selection probability—this is a probability sample where inference to the population is valid.
 
-```
-write your answer here
-```
+2. Sample Size:
+n = 19,724 completed interviews, exceeding the target of ~15,000.
+
+3. Target Population:
+Non-institutionalized persons aged 15+ in private households across Canada's ten provinces. Exclusions: territories, institutions, reserves. The sampled population consists of actual respondents.
+
+4. Sampling Frame:
+Dual frame: (a) List frame from Address Register with linked telephone numbers, (b) RDD frame for households not in list frame. Stratified by province and CMA.
+
+5. Survey Mode:
+Mixed-mode: electronic questionnaire or computer-assisted telephone interviewing. Respondents selected their preferred language (English or French). 
+
+6. Timeline:
+Data collection occurred from September 4, 2018, to December 28, 2018.
+
+7. Response Rate:
+41.9%
+
+8. Weights:
+Person-level weighting factor for estimating characteristics of the non-institutionalized population aged 15+. Adjustments include: multiplication factor for non-rejected non-volunteers due to rejective sampling; non-response adjustments (modeled using administrative data on income, household composition, etc.); calibration to match the 2017 Canadian Income Survey income distribution by province; alignment to independent age-sex-province population estimates for improved precision; bootstrap weights provided for design-based variance estimation.
+
+9. Data Processing:
+CATI electronic capture with built-in validation, coding of open-ended responses, automated/manual editing, derived variable construction.
+
+10. Cleaning, Imputation:
+Outlier detection for continuous variables (hours, donations), hot-deck imputation for missing key items, top-coding of extremes. "Don't Know/Refused" retained as categories.
+
+11. Sources of Error:
+
+Variability due to sampling; estimated using bootstrap method (high variability noted in publications via significance tests at 95% level). Non-sampling errors: Coverage errors (e.g., households without telephones or not on frame); non-response at household and individual levels; response errors; processing errors. Non-response and coverage biases are minimized through weighting, administrative modeling, and frame improvements, but some residual effects may remain.
+
+12. Limitations, Known Biases, etc.:
+
+Excludes the territories and full-time institutional residents. potential coverage bias from households without telephones. non-response bias reduced via modeling and adjustments but possible residuals. results may not be directly comparable to previous cycles due to the new electronic mode, updated volunteering definitions, and new content (e.g., online/social media participation questions). rejective sampling addresses over-representation of volunteers; linkage to tax records improves income quality but depends on consent and match rates; small biases possible from exclusions or frame limitations.
+
+13. Link to Documentation:
+
+Statistics Canada. (2020). *GSS Cycle 33 PUMF Documentation and User's Guide*. Catalogue no. 89M0026X.
+
+IMDB: https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=4430
+
+
+
+
 
 ## Rubric
 
